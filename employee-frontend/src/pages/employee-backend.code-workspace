@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../employee-backend"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "employee-frontend",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
